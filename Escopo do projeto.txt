@@ -1,0 +1,1 @@
+ Objetivo: Criar um sistema que permita adicionar, listar, buscar e remover clientes em um arquivo de armazenamento.
